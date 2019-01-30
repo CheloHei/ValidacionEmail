@@ -1,0 +1,26 @@
+#titulo{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#loaders{
+    text-align: center;
+}
+#loaders img{
+    width: 158px;
+    margin: 0 auto;
+}
+#spinner{
+    display:none;
+}
+#resetear{
+    float: right;
+}
+.pie{
+    padding: 15px;
+    text-align: center;
+    color: rgb(255, 242, 242);
+    font-size: 20px;
+    font-weight: bold;
+    /*font-family: 'Courier New', Courier, monospace;*/
+    
+}
